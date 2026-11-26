@@ -1,0 +1,23 @@
+{
+  "repo": "autodesk-vred-visualization-ultimate",
+  "product": "Autodesk VRED Visualization Ultimate",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "autodesk-vred-visualization",
+    "autodesk-vred",
+    "how-to-install-autodesk-vred",
+    "how-to-setup-autodesk-vred",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "autodesk-visualization",
+    "3d-visualization"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Autodesk VRED Visualization Ultimate"
+}
